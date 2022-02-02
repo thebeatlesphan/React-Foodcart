@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/React-Foodcart/static/css/main.feedbb02.chunk.css",
+    "main.js": "/React-Foodcart/static/js/main.76df5919.chunk.js",
+    "main.js.map": "/React-Foodcart/static/js/main.76df5919.chunk.js.map",
+    "runtime-main.js": "/React-Foodcart/static/js/runtime-main.e2ba09f4.js",
+    "runtime-main.js.map": "/React-Foodcart/static/js/runtime-main.e2ba09f4.js.map",
+    "static/js/2.be84cef9.chunk.js": "/React-Foodcart/static/js/2.be84cef9.chunk.js",
+    "static/js/2.be84cef9.chunk.js.map": "/React-Foodcart/static/js/2.be84cef9.chunk.js.map",
+    "index.html": "/React-Foodcart/index.html",
+    "static/css/main.feedbb02.chunk.css.map": "/React-Foodcart/static/css/main.feedbb02.chunk.css.map",
+    "static/js/2.be84cef9.chunk.js.LICENSE.txt": "/React-Foodcart/static/js/2.be84cef9.chunk.js.LICENSE.txt",
+    "static/media/meals.2971f633.jpg": "/React-Foodcart/static/media/meals.2971f633.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e2ba09f4.js",
+    "static/js/2.be84cef9.chunk.js",
+    "static/css/main.feedbb02.chunk.css",
+    "static/js/main.76df5919.chunk.js"
+  ]
+}
